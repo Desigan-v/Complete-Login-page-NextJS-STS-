@@ -24,5 +24,3 @@ export default function middleware(req)
 
 }
 
-
-//amoxicillin 500mg        ibuproten 400mg tab

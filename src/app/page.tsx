@@ -1,14 +1,14 @@
 import Link from 'next/link';
 import "./style.css";
 const Home = () => (
-    <div>
-        <h1>Welcome to Next.js Authentication</h1>
-        <div>
+    <div className='container'>
+        <h1>Welcome</h1>
+        <div className='button'>
             <Link href="/login">
                 <button>Login</button>
             </Link>
         </div>
-        <div>
+        <div className='button'>
             <Link href="/register">
                 <button>Register</button>
             </Link>

@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Before yo start the project we have to be install the required packages
 
+                                      "npm install next react react-dom"
 ## Getting Started
 
 First, run the development server:

@@ -33,7 +33,7 @@ export default function Login() {
   };
 
   return (
-    <div>
+    <div className='container'>
       <h1>Login</h1>
       <form onSubmit={handleSubmit}>
         <div>
